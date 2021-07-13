@@ -1,0 +1,8 @@
+Keras-Preprocessing==1.1.2
+numpy==1.19.5
+Pillow==8.1.0
+scipy
+tensorflow~=2.4.1
+tensorflow-hub==0.11.0
+pyserial~=3.5
+opencv-python
