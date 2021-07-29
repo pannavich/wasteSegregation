@@ -1,7 +1,8 @@
 from mlforkids import MLforKidsImageProject
 
 # treat this key like a password and keep it secret!
-key = "8dc00c60-87c6-11eb-8ffd-ff79b8fb1ef086bda874-fde6-4455-b5ae-59aa4bce3387"
+#key from ml for kids
+key = "key from ml for kids"
 def create_model():
     myProject = MLforKidsImageProject(key)
     myProject.train_model()
